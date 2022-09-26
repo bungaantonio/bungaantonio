@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BRoleg99
-- 👀 I’m interested in programmation
+- 👀 I’m interested in Technology TI
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m study in Universidade Agostinho Neto
 - 📫 How to reach me bunga.antonio@hotmail.com
 
 <!---
