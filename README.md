@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @bungaantonio
 - ❤️ Estou sempre aprendendo sobre Java e suas nuances
+- 🥷 Spring Boot, Thymeleaf, Tailwind CSS
  
 **Sobre mim**
 
-`Entusiasta do desenvolvimeno back end`
+`Entusiasta do desenvolvimento back end`
 
 <!---
 bungaantonio/bungaantonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
