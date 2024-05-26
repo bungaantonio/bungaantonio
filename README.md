@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @bungaantonio
-- ❤️ Estou sempre aprendendo sobre Java e suas nuances
-- 🥷 Spring Boot, Thymeleaf, TailwindCSS
+- 👋 Hi, I’m `@bungadass`
+- ❤️ 🥷
+- Faça o melhor trabalho, sempre!
  
 **Sobre mim**
 
-`Entusiasta de desenvolvimento de software, eterno IT❤️`
+>Entusiasta do desenvolvimento de software, eterno IT❤️.
+>
+>Uso e abuso dos conhecimentos passados nas comunidades de desenvolvimento, blogs, etcs.
+>
+>Curto música e bastante, gosto de jogar videogames, ler livros é um dos meus maiores prazeres.
 
+***
+# Tecnologias que uso no dia a dia
+- [ ] Spring Boot
+- [ ] Tailwind
+- [x] Django
+- [ ] Thymeleaf
 <!---
 bungaantonio/bungaantonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
