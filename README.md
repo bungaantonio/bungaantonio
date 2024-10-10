@@ -1,4 +1,4 @@
-Como desenvolvedor de software estou focado em criar produtos que realmente façam a diferença, tanto no ambiente de startups quanto além. Tenho paixão por resolver problemas através da tecnologia, combinando minhas habilidades e pensamento estratégico.
+Como desenvolvedor de software estou focado em criar produtos que geram resultados a longo prazo, tanto no ambiente de startups quanto além. Tenho paixão por resolver problemas através da tecnologia, combinando minhas habilidades e pensamento estratégico.
 
 ## Sobre Mim 🙋‍♂️
 Com uma base sólida em desenvolvimento de projetos e liderança, valorizo disciplina, execução e inovação. Gosto de ambientes onde podemos unir conhecimento com uma crescente experiência de aprendizado para construir soluções que geram benefícios.
