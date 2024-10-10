@@ -11,8 +11,11 @@ Com uma base sólida em desenvolvimento de projetos acadêmicos e liderança, va
 - **Ferramentas & Plataformas:** GitHub, Netlify
 - **Ciência de Dados & IA:** Entusiasta em aprendizado de máquina e análise de dados, com crescente experiência em projetos aplicados.
 
+<!--
 ## Projetos Principais 🚀
 - **[>]:**
+- 
+-->
 
 ## Objetivos Profissionais 🎯
 - **Desenvolvimento de Carreira:** Estou focado em avançar na engenharia de software voltada para produtos, onde posso alavancar tanto minha experiência em liderança quanto minhas habilidades técnicas para criar produtos que importam. Meu objetivo é transitar para papéis que façam a ponte entre engenharia e gestão de produtos, com um olhar atento para a inovação.
