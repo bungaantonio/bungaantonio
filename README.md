@@ -1,9 +1,9 @@
-Como desenvolvedor de software estou focado em criar produtos que geram resultados a longo prazo, tanto no ambiente de startups quanto além. Tenho paixão por resolver problemas através da tecnologia, combinando minhas habilidades e pensamento estratégico.
+## _Como desenvolvedor de software, meu objetivo é desenvolver produtos que produzam resultados duradouros, seja no contexto de startups ou além. Tenho uma paixão por solucionar problemas por meio da tecnologia, unindo minhas competências ao raciocínio estratégico._
 
-## Sobre Mim 🙋‍♂️
-Com uma base sólida em desenvolvimento de projetos e liderança, valorizo disciplina, execução e inovação. Gosto de ambientes onde podemos unir conhecimento com uma crescente experiência de aprendizado para construir soluções que geram benefícios.
+### Sobre Mim 🙋‍♂️
+Com minha experiência em engenharia de computação e como delegado de turma, adquiri uma sólida base em elaboração de projetos e liderança. Prezo pela disciplina, execução e inovação. Aprecio espaços onde é possível combinar conhecimento com uma experiência de aprendizado crescente para criar soluções que trazem vantagens.
 
-## Habilidades Técnicas 💻
+### Habilidades Técnicas 💻
 - **Linguagens:** Python, Java, JavaScript
 - **Frameworks & Bibliotecas:** Django, Spring Boot, Vue, Tailwind CSS
 - **Ferramentas & Plataformas:** GitHub, Netlify, Railway
@@ -15,9 +15,9 @@ Com uma base sólida em desenvolvimento de projetos e liderança, valorizo disci
 - 
 -->
 
-## Objetivos Profissionais 🎯
-- **Desenvolvimento de Carreira:** Estou focado em avançar na engenharia de software voltada para produtos, onde posso alavancar tanto minha experiência em liderança quanto minhas habilidades técnicas para criar produtos que importam. Meu objetivo é transitar para papéis que façam a ponte entre engenharia de software e gestão de produtos, com um olhar atento para a inovação.
-- **Aprendizado Contínuo:** Comprometido com meu crescimento profissional, invisto tempo em leituras, pesquisas e troca de ideias sobre a indústria de tecnologia, especialmente em Gestão de Produtos, Desenvolvimento de Software e IA.
+### Objetivos Profissionais 🎯
+- **Desenvolvimento Profissional:** Meu objetivo é progredir na engenharia de software focada em produtos, onde posso utilizar tanto minha experiência como líder quanto minhas competências técnicas para desenvolver produtos relevantes. Minha meta é mudar para posições que interliguem a engenharia de software e a administração de produtos, mantendo um olhar atento para a inovação.
+- **Crescimento Profissional:** Dedicado ao meu desenvolvimento profissional, dedico tempo a leituras, estudos e intercâmbio de pensamentos sobre o setor tecnológico, com foco em Gestão de Produtos, Desenvolvimento de Software e Inteligência Artificial.
 
-## Conecte-se Comigo 🌐
+### Conecte-se Comigo 🌐
 - 🔗 [LinkedIn](https://linkedin.com/in/bungaantonio)
