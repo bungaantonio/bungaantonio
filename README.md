@@ -1,7 +1,7 @@
 ## _Como desenvolvedor de software, meu objetivo é desenvolver produtos que produzam resultados duradouros, seja no contexto de startups ou além. Tenho uma paixão por solucionar problemas por meio da tecnologia, unindo minhas competências ao raciocínio estratégico._
 
 ### Sobre Mim 🙋‍♂️
-Com minha experiência em engenharia de computação e como delegado de turma, adquiri uma sólida base em elaboração de projetos e liderança. Prezo pela disciplina, execução e inovação. Aprecio espaços onde é possível combinar conhecimento com uma experiência de aprendizado crescente para criar soluções que trazem vantagens.
+Com minha experiência em engenharia informática e como delegado de turma, adquiri uma sólida base em elaboração de projetos e liderança. Prezo pela disciplina, execução e inovação. Aprecio espaços onde é possível combinar conhecimento com uma experiência de aprendizado crescente para criar soluções que trazem vantagens.
 
 ### Habilidades Técnicas 💻
 - **Linguagens:** Python, Java, JavaScript
