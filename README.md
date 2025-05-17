@@ -11,7 +11,7 @@
 
 + Explorar o equilíbrio entre desenvolvimento, infraestrutura e segurança.
 
-+ Assistir animes e encontrar inspiração em histórias bem contadas.
++ Assistir animes e encontrar inspiração em histórias de sucesso.
 
 
 
