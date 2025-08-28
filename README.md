@@ -1,18 +1,10 @@
-# 👋 Sou o Bunga
-### Software Engineer / Computer Engineer
-> Gosto de pensar que o aprendizado não tem limites.
-> 
+# 👋 I’m Bunga
+### Software & Systems Engineer
+> I like to believe there’s no limit to learning.
+>
 
-
-🔹O que me motiva:
-+ Projetos que moldam a sociedade e impulsionam mudanças.
-
-+ Comunidades de tecnologia e a troca de conhecimento.
-
-+ Explorar o equilíbrio entre desenvolvimento, infraestrutura e segurança.
-
-+ Assistir animes e encontrar inspiração em histórias de sucesso.
-
-
-
-[Portfólio](https://bungaantonio.tech "📌")
+🔹What drives me:
++ Projects that push boundaries and impact communities.
++ Connecting with people and sharing knowledge in tech circles.
++ Navigating the crossroads of development, infrastructure, and security.
++ Drawing energy from anime and stories of resilience and growth.
