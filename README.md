@@ -1,5 +1,5 @@
 # 👋 I’m Bunga
-### Software & Systems Engineer
+### Software & System Engineer
 > I like to believe there’s no limit to learning.
 >
 
