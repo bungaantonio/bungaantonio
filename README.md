@@ -1,10 +1,13 @@
-# 👋 I’m Bunga
-### Software & Systems Engineer
-> I like to believe there’s no limit to learning.
->
+## Software & Systems Engineer
 
-🔹What drives me:
-+ Projects that push boundaries and impact communities.
-+ Connecting with people and sharing knowledge in tech circles.
-+ Navigating the crossroads of development, infrastructure, and security.
-+ Drawing energy from anime and stories of resilience and growth.
+I work on the development, operation, and integration of systems, focusing on solutions that remain consistent and reliable in real-world environments.
+
+I have practical experience in system operation and maintenance, including servers, networks, and system integration.
+
+I am interested in organizational and high-throughput systems, with focus on:
++ process modeling and business rules
++ access control and identity
++ traceability and auditing
++ system integration
+
+I am consolidating backend and systems engineering skills, with a focus on technical responsibility and participation in architecture decisions.
